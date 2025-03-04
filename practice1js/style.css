@@ -1,0 +1,53 @@
+*{
+  margin:0;
+  padding: 0;
+ 
+}
+.container{
+  height: 100vh;
+  width: 100%;
+  text-align: center;
+}
+.head{
+  background-color: #5b5a5a;
+  color: rgb(222, 205, 174);
+  border: 1px solid black;
+  padding: 20px;
+
+}
+#btn{
+  text-decoration: none;
+  background-color: #756969;
+  color: rgb(222, 205, 174);
+  margin: 10px;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+.color-change{
+  padding: 139px;
+  gap:10px;
+}
+.button{
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  height: 64px;
+  width: 65px;
+  margin: 31px 7px;
+}
+
+#yellow{
+  background-color: yellow;
+}
+#red{
+  background-color: red;
+}
+#black{
+  background-color:black;
+  color: white;
+  
+}
+#blue{
+  background-color: blue;
+}
