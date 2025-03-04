@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    height: 99vh;
+    /* width:100%; */
+    background-color: #c48585;
+    padding: 5px 40px;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+form{
+   padding: 15px;
+    margin-top: 20px;
+}
+
+p{
+    padding: 10px 5px;
+}
+
+#weight{
+    margin:5px;
+    outline: none;
+    border: 1px solid black;
+}
+#height{
+    margin:5px;
+    outline: none;
+    border: 1px solid black;
+}
+
+.result{
+    font-size: 25px;
+    padding-left: 50px;
+
+}
+.instruction{
+    font-size: 25px;
+    padding-left: 50px;
+}
+
+button{
+    margin: 10px;
+    padding: 5px 12px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
