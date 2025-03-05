@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* align-items: center; */
+}
+
+.container{
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 100vh;
+    width: 100%;
+}
+
+h1{
+    display:flex;
+ align-items: center;
+ justify-content: center;   
+
+}
+
+.banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top:300px;
+}
+.clock{
+    display:inline-block;
+    margin-left:418px;
+    margin-top: 20px;
+    padding: 8px 36px;
+    border: 2px solid rgb(129, 92, 92);
+    background-color: #7c5353;
+}
